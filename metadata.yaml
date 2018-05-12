@@ -1,0 +1,31 @@
+_repo: The-Children-s-Book-of-Birds_41141
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41141-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Miller, Olive Thorne
+    aliases:
+    - Thorne, Olive
+    - Miller, Harriet Mann
+    - Mann, Harriet
+    birthdate: 1831
+    deathdate: 1918
+    gutenberg_agent_id: '31220'
+    url: http://www.gutenberg.org/2009/agents/31220
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Mann_Miller
+description: ''
+gutenberg_issued: '2012-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41141'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- United States -- Juvenile literature'
+- !lcc 'QL'
+title: The Children's Book of Birds
+url: http://www.gutenberg.org/ebooks/41141
